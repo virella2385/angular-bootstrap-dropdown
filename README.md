@@ -7,3 +7,5 @@ Parameters:
 - list: the list, array, collection you want to display
 - v-title: the text you would like to show in the dropdown list
 - v-onselect: the controller function you want to call when selecting an option.
+
+Demo: https://embed.plnkr.co/lUaeqfzh2ihQlgLOuifz/
