@@ -10,4 +10,4 @@ A programmer's perspective to integrate bootstrap's pretty dropdown into the ang
 - v-onselect: the controller function you want to call when selecting an option.
 
 ## Usage Example
-[Demo](https://embed.plnkr.co/lUaeqfzh2ihQlgLOuifz/)
+[Demo](https://embed.plnkr.co/6aWqG4it9GcsfV4r4y0T/)
