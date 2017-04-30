@@ -11,5 +11,4 @@ angular.module('app')
       console.log('called controller function!');
     };
 
-
   }]);

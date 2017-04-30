@@ -19,12 +19,12 @@ angular.module('app', [])
         }
 
         scope.showval = function() {
-            var option = this.option;
-            model.$setViewValue(option);
-            scope.selected_option = option;
-            model.$setValidity();
-            scope.localFn();
-          };
+          var option = this.option;
+          model.$setViewValue(option);
+          scope.selected_option = option;
+          model.$setValidity();
+          scope.localFn();
+        };
       }
     };
   });
