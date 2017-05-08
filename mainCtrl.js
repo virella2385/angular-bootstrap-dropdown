@@ -26,8 +26,4 @@ angular.module('app')
           $scope.testfn = function() {
                console.log('called controller function!');
           };
-
-
-
-
      }]);
