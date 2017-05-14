@@ -1,9 +1,6 @@
 angular.module('app')
      .controller('mainCtrl', ['$http', '$scope', function($http, $scope) {
-
-          //$scope.selected = 'default';
           $scope.name = 'gregg';
-          //$scope.array = [];
           $scope.array = [{
                     name: 'chris',
                     value: 1
