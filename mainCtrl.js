@@ -19,7 +19,7 @@ angular.module('app')
                     value: 5
                }
           ];
-
+          // test comment
           $scope.testfn = function() {
                console.log('called controller function!');
           };
